@@ -167,6 +167,8 @@ address {
 
     padding-top: 24px;
     padding-bottom: 24px;
+
+    color: var(--logo-color);
 }
 
 .main-menu-link.active {
